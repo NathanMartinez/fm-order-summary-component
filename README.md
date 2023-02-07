@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/NathanMartinez/fm-order-summary-component)
-- Live Site URL: [Github Pages Site](https://your-live-site-url.com)
+- Live Site URL: [Github Pages Site](https://nathanmartinez.github.io/fm-order-summary-component/)
 
 ## My process
 
@@ -52,4 +52,4 @@ Users should be able to:
 ## Author
 
 - Github - [Github](https://github.com/NathanMartinez/)
-- Frontend Mentor - [@NathanMaritnez](https://www.frontendmentor.io/profile/NathanMaritnez)
+- Frontend Mentor - [@NathanMartinez](https://www.frontendmentor.io/profile/NathanMartinez)
